@@ -40,6 +40,4 @@
 </div>
   
 
-  ![Snake animation](https://github.com/SaraBrito-developer)
- 
-</div>
+
