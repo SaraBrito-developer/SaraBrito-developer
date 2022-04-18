@@ -1,6 +1,6 @@
 ### Olá visitante, Meu nome é Sara Brito e eu sou estudante de Programação 🙋‍♀️
-### seja muito bem vindo(a) ao meu GitHub!! 😊 
-#
+### Seja muito bem vindo(a) ao meu GitHub!! 😊 
+
 ## 📲 Entre em contato comigo:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-brito-0b4296195/)
