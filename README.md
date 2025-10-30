@@ -18,8 +18,10 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sara-Robot" height="30" width="40" src="https://raw.githubusercontent.com/robotframework/visual-identity/main/png/robot-framework-logo.png">
   <img align="center" alt="Sara-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Sara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Sara-Capybara" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capybara/capybara-original.svg">
+  <img align="center" alt="Sara-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 </div>
 
 ### Sobre mim :
