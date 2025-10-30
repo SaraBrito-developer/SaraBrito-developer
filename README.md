@@ -11,11 +11,13 @@ Welcome to my GitHub!! 😊
 <div align=center>
   <a href="https://github.com/SaraBrito-developer">
     <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    &nbsp;&nbsp;&nbsp;&nbsp; <img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=16&theme=dracula"/> 
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/SaraBrito-developer">
+    <img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=16&theme=dracula"/> 
   </a>
 </div>
 
-<div align=center style="display: inline_block"><br>
   <p>My programming languages:</p>
   <a href="https://github.com/SilasPires"><img align="center" alt="HTML5-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
   <a href="https://github.com/SilasPires"><img align="center" alt="JAVA-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a> 
