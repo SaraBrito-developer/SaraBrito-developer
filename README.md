@@ -7,20 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Saah.Brito#7719)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.iabrito@gmail.com)
 ---
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top" style="padding-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=radical" alt="Sara Brito's GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%" valign="top" style="padding-left: 10px;">
-      <a href="https://github.com/SaraBrito-developer">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=7&theme=radical" alt="Sara Brito's Top Languages" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+![Sara GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/SaraBrito-developer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=7&theme=radical" alt="Sara Brito's Top Languages"/></a>
 ---
 
 ### Tecnologias :
