@@ -20,14 +20,12 @@
   <img align="center" alt="Sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sara-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Sara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Sara-Capybara" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capybara/capybara-original.svg">
-  <img align="center" alt="Sara-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+ginal.svg">
 </div>
 
 ### Sobre mim :
 
-#### ✨ - Hoje trabalho como Analista de Testes 
-#### 🖤 - Estudante Python 
-#### 😊 - Pronome: Ela/Dela 
+Sou **Analista de Testes (QA)**, apaixonada por garantir que softwares funcionem perfeitamente. 
+Atualmente, estou mergulhada nos estudos de **Python** 🐍, com o objetivo de aplicar essa poderosa linguagem para criar automações de testes e expandir minhas habilidades de desenvolvimento.
 
 ![Snake animation](https://raw.githubusercontent.com/SaraBrito-developer/SaraBrito-developer/main/github-contribution-grid-snake.svg)
