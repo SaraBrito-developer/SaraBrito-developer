@@ -27,4 +27,5 @@
 Sou **Analista de Testes (QA)**, apaixonada por garantir que softwares funcionem perfeitamente. 
 Atualmente, estou mergulhada nos estudos de **Python** 🐍, com o objetivo de aplicar essa poderosa linguagem para criar automações de testes e expandir minhas habilidades de desenvolvimento.
 
-![Snake animation](https://raw.githubusercontent.com/SaraBrito-developer/SaraBrito-developer/main/dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SaraBrito-developer/SaraBrito-developer/blob/output/github-contribution-grid-snake.svg)
+
