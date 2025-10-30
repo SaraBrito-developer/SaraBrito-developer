@@ -10,9 +10,11 @@
 
 ![Sara GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=radical)
 
-<a href="https://github.com/SaraBrito-developer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&layout=compact&langs_count=7&theme=radical"/>
-</a>
+<div>
+
+  <a href="https://github.com/SaraBrito-developer">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&layout=compact&langs_count=7&theme=radical"/>
 
 ### Tecnologias :
 
