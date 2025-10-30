@@ -9,20 +9,7 @@ Welcome to my GitHub!! 😊
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.iabrito@gmail.com)
 ---
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="padding-right: 10px;">
-        <a href="https://github.com/SaraBrito-developer">
-          <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        </a>
-      </td>
-      <td style="padding-left: 10px;">
-        <a href="https://github.com/SaraBrito-developer">
-          <img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=16&theme=dracula"/> 
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/SaraBrito-developer"><img height="190cm" src="https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/SaraBrito-developer"><img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=16&theme=dracula"/></a>
 </div>
 
   <p>My programming languages:</p>
