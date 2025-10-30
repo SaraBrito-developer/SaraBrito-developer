@@ -8,7 +8,11 @@ Welcome to my GitHub!! 😊
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Saah.Brito#7719)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.iabrito@gmail.com)
 ---
-![Sara GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/SaraBrito-developer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=7&theme=radical" alt="Sara Brito's Top Languages"/></a>
+<div align=center>
+  <a href="https://github.com/SilasPires">
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=silaspires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silaspires&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 ---
 
 <div align=center style="display: inline_block"><br>
