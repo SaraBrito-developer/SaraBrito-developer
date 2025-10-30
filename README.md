@@ -5,9 +5,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-brito-0b4296195/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Saah.Brito#7719)
-[![Gmail](https://img.shields.io/badge/Gmail-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://gmail.com/channels/sara.iabrito@gmail.com)
-<a href = "mailto:sara.iabrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.iabrito@gmail.com)
 ---
 
 ![Sara GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=radical)
