@@ -1,7 +1,8 @@
-### Olá visitante, Meu nome é Sara Brito e eu sou Desenvolvedora de Software Backend e Quality Assurance 🙋‍♀️
-### Seja muito bem vindo(a) ao meu GitHub!! 😊 
+Hello visitor, my name is Sara Brito and I am a Backend Software Developer and Quality Assurance Specialist 🙋‍♀️
 
-## 📲 Entre em contato comigo:
+Welcome to my GitHub!! 😊
+
+📲 Contact me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-brito-0b4296195/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Saah.Brito#7719)
@@ -9,8 +10,6 @@
 ---
 ![Sara GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/SaraBrito-developer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=7&theme=radical" alt="Sara Brito's Top Languages"/></a>
 ---
-
-### Tecnologias :
 
 <div align=center style="display: inline_block"><br>
   <p>My programming languages:</p>
@@ -21,8 +20,10 @@
   <a href="https://github.com/SilasPires"><img align="center" alt="NODEJS-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>   
   <a href="https://github.com/SilasPires"><img align="center" alt="MYSQL-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>   
 </div>
+---
 
-### Sobre mim :
+<div align=center style="display: inline_block"><br>
+  <p>My About Me:</p>
 
 Sou **Analista de Testes (QA)**, apaixonada por garantir que softwares funcionem perfeitamente. 
 Atualmente, estou mergulhada nos estudos de **Python** 🐍, com o objetivo de aplicar essa poderosa linguagem para criar automações de testes e expandir minhas habilidades de desenvolvimento.
