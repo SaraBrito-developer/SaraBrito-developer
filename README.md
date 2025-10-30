@@ -12,10 +12,14 @@
 
 ### Tecnologias :
 
-<div style="display: inline_block">
-  <img align="center" alt="Sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sara-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Sara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<div align=center style="display: inline_block"><br>
+  <p>My programming languages:</p>
+  <a href="https://github.com/SilasPires"><img align="center" alt="HTML5-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
+  <a href="https://github.com/SilasPires"><img align="center" alt="JAVA-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a> 
+  <a href="https://github.com/SilasPires"><img align="center" alt="JAVASCRIPT-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a> 
+  <a href="https://github.com/SilasPires"><img align="center" alt="PYTON-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a> 
+  <a href="https://github.com/SilasPires"><img align="center" alt="NODEJS-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>   
+  <a href="https://github.com/SilasPires"><img align="center" alt="MYSQL-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>   
 </div>
 
 ### Sobre mim :
