@@ -24,7 +24,6 @@ Welcome to my GitHub!! 😊
 <div align=center style="display: inline_block"><br>
   <p>About Me:</p>
 
-Sou **Analista de Testes (QA)**, apaixonada por garantir que softwares funcionem perfeitamente. 
-Atualmente, estou mergulhada nos estudos de **Python** 🐍, com o objetivo de aplicar essa poderosa linguagem para criar automações de testes e expandir minhas habilidades de desenvolvimento.
+I'm a Test Analyst (QA) passionate about ensuring software works perfectly. Currently, I'm immersed in studying Python 🐍, aiming to apply this powerful language to create test automations and expand my development skills.
 
 <img src="https://raw.githubusercontent.com/SaraBrito-developer/SaraBrito-developer/output/snake.svg" alt="Snake animation" />
