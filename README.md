@@ -8,18 +8,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.iabrito@gmail.com)
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=radical" alt="Sara Brito's GitHub Stats"/>
-    </td>
-    <td>
-      <a href="https://github.com/SaraBrito-developer">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=7&theme=radical" alt="Sara Brito's Top Languages"/>
-      </a>
-    </td>
-  </tr>
-</table>
+![Sara GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=radical) <a href="https://github.com/SaraBrito-developer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=7&theme=radical" alt="Sara Brito's Top Languages"/></a>
+
+---
 
 ### Tecnologias :
 
