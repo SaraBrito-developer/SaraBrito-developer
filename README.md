@@ -14,7 +14,6 @@ Welcome to my GitHub!! 😊
     &nbsp;&nbsp;&nbsp;&nbsp; <img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=16&theme=dracula"/> 
   </a>
 </div>
----
 
 <div align=center style="display: inline_block"><br>
   <p>My programming languages:</p>
