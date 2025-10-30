@@ -1,10 +1,11 @@
-### Olá visitante, Meu nome é Sara Brito e eu sou estudante de Programação 🙋‍♀️
+### Olá visitante, Meu nome é Sara Brito e eu sou Desenvolvedora de Software Backend e Quality Assurance 🙋‍♀️
 ### Seja muito bem vindo(a) ao meu GitHub!! 😊 
 
 ## 📲 Entre em contato comigo:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-brito-0b4296195/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Saah.Brito#7719)
+[![Gmail](https://img.shields.io/badge/Gmail-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://gmail.com/channels/sara.iabrito@gmail.com)
 <a href = "mailto:sara.iabrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
