@@ -28,4 +28,4 @@
 #### 🖤 - Estudante Python 
 #### 😊 - Pronome: Ela/Dela 
 
-![Snake animation](https://github.com/SaraBrito-developer/SaraBrito-developer/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SaraBrito-developer/SaraBrito-developer/output/github-contribution-grid-snake.svg)
