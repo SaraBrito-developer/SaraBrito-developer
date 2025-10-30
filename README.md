@@ -10,8 +10,8 @@ Welcome to my GitHub!! 😊
 ---
 <div align=center>
   <a href="https://github.com/SaraBrito-developer">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
