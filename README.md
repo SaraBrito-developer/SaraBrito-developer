@@ -10,16 +10,14 @@
 
 ![Sara GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraBrito-developer&show_icons=true&theme=radical)
 
-<div>
-
-  <a href="https://github.com/SaraBrito-developer">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&layout=compact&langs_count=7&theme=radical"/>
+<a href="https://github.com/SaraBrito-developer">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraBrito-developer&langs_count=7&theme=radical"/>
+</a>
 
 ### Tecnologias :
 
 <div style="display: inline_block">
-. <img align="center" alt="Sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ### Sobre mim :
